@@ -1,0 +1,14 @@
+C:\Users\lenovo\Cslearning\bin\Debug\net7.0\Cslearning.exe
+C:\Users\lenovo\Cslearning\bin\Debug\net7.0\Cslearning.deps.json
+C:\Users\lenovo\Cslearning\bin\Debug\net7.0\Cslearning.runtimeconfig.json
+C:\Users\lenovo\Cslearning\bin\Debug\net7.0\Cslearning.dll
+C:\Users\lenovo\Cslearning\bin\Debug\net7.0\Cslearning.pdb
+C:\Users\lenovo\Cslearning\obj\Debug\net7.0\Cslearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cslearning\obj\Debug\net7.0\Cslearning.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cslearning\obj\Debug\net7.0\Cslearning.AssemblyInfo.cs
+C:\Users\lenovo\Cslearning\obj\Debug\net7.0\Cslearning.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cslearning\obj\Debug\net7.0\Cslearning.dll
+C:\Users\lenovo\Cslearning\obj\Debug\net7.0\refint\Cslearning.dll
+C:\Users\lenovo\Cslearning\obj\Debug\net7.0\Cslearning.pdb
+C:\Users\lenovo\Cslearning\obj\Debug\net7.0\Cslearning.genruntimeconfig.cache
+C:\Users\lenovo\Cslearning\obj\Debug\net7.0\ref\Cslearning.dll
