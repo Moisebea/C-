@@ -1,0 +1,4 @@
+C:\Users\lenovo\Cslearning\obj\Debug\net5.0\Cslearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cslearning\obj\Debug\net5.0\Cslearning.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cslearning\obj\Debug\net5.0\Cslearning.AssemblyInfo.cs
+C:\Users\lenovo\Cslearning\obj\Debug\net5.0\Cslearning.csproj.CoreCompileInputs.cache
