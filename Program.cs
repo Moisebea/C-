@@ -3,7 +3,7 @@ using System;
 
 partial class Program
 {
-    static void Main()
+    static void MainP()
     {
         Console.WriteLine("Hello, World!");
     }
