@@ -1,9 +1,9 @@
 ﻿// Dans Program.cs
 using System;
 
-partial class Program
+class Program
 {
-    static void MainP()
+    static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
     }
